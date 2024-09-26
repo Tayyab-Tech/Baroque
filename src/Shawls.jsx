@@ -85,7 +85,7 @@ function Shawls() {
           <Row>
             {/* FIXED TAG */}
             <Col sm={3}>
-              <div className=" hidden md:block w-32 mt-11 ">
+              <div className="sticky top-48 hidden md:block w-56 mt-11 ">
               <Accordion className="flex flex-col gap-2">
                 <Accordion.Item eventKey="0">
                   <Accordion.Header className="font-serif tracking-wider">
